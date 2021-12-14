@@ -122,7 +122,7 @@ cdnjs wouldn't be the success that it is today without our sponsors' kind suppor
 * [Statuspage](https://www.statuspage.io/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
 * [Sentry](https://sentry.io/welcome/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
 * [Lean20](https://lean20.com/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_readme)
-
+* [Microsoft](https://docs.microsoft.com/en-us/visualstudio/liveshare)
 If you are interested in becoming a sponsor, please feel free to contact us!
 
 ## License
